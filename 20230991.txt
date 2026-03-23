@@ -1,0 +1,14 @@
+Coffee count:
+Coffee count is 5
+Insert money:
+Insert money:
+1000won received
+Insert money:
+1000won received
+Insert money:
+3000won received
+Change is 2000wonInsert money:
+2000won received
+Change is 1000wonInsert money:
+2000won received
+Change is 1000wonsold out.
